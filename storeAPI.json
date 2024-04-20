@@ -197,30 +197,23 @@
       "isInCart": false
     }
   ],
-  "reviews": [
-    {
-      "productCode": "roo1",
-      "customerName": "John Walter",
-      "title": "The exact design I was looking for my Wife",
-      "review": "I saw their ad on Instagram, and I must say I admire their design collections. I was very confused while ordering so I decided to connect with their Instagram team, and I was surprised by the way they handled my issues with ease. Thank you so much.",
-      "location": "Arizona, AZ, USA",
-      "customerRating": "4.8"
-    },
-    {
-      "productCode": "roo6",
-      "customerName": "Sophie Dee",
-      "title": "Absolutely Stunning Pieces!",
-      "review": "From the moment I stumbled upon their website, I was spellbound by the sheer elegance of their designs. Each piece tells a unique story, and the craftsmanship is truly unparalleled. Thank you for adding a touch of sophistication to my jewelry collection!",
-      "location": "Coppenhagen, SA",
-      "customerRating": "4.5"
-    },
-    {
-      "productCode": "roo8",
-      "customerName": "Nimrat Kaur",
-      "title": "An Exquisite Symbol of Love and Affection",
-      "review": "From the delicate details to the impeccable quality, every piece from this store is a testament to love and beauty. My purchase exceeded all expectations, and I'm constantly receiving compliments whenever I wear it. Thank you for creating such timeless treasures",
-      "location": "Mohali, PB, India",
-      "customerRating": "3.9"
-    }
-  ]
+"reviews":[{
+"productCode":"roo1",
+"customerName":"John Walter",
+"title":"The exact design I was looking for my Wife",
+"review":"I saw their ad on Instagram, and I must say I admire their design collections. I was very confused while ordering so I decided to connect with their Instagram team, and I was surprised by the way they handled my issues with ease. Thank you so much.",
+"location":"Arizona, AZ, USA"
+},
+  {
+    "productCode":"roo6",
+"customerName":"Sophie Dee",
+"title":"Absolutely Stunning Pieces!",
+"review":"From the moment I stumbled upon their website, I was spellbound by the sheer elegance of their designs. Each piece tells a unique story, and the craftsmanship is truly unparalleled. Thank you for adding a touch of sophistication to my jewelry collection!",
+"location":"Coppenhagen, SA"
+  },
+  {"productCode":"roo8",
+"customerName":"Nimrat Kaur",
+"title":"An Exquisite Symbol of Love and Affection",
+"review":"From the delicate details to the impeccable quality, every piece from this store is a testament to love and beauty. My purchase exceeded all expectations, and I'm constantly receiving compliments whenever I wear it. Thank you for creating such timeless treasures",
+"location":"Mohali, PB, India"}]
 }
